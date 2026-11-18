@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9d9ce387e614df08ac7522d7fc34078, type: 3}
+  m_Name: LevelContent
+  m_EditorClassIdentifier: 
+  m_Planets:
+  - {fileID: 4183000000000000001, guid: 3c9d58e2f6b04a4197d1ea392648cf57, type: 3}
+  m_GravityWells:
+  - {fileID: 4061151964228527362, guid: 68fcde9898849c549ad2ab9fac79d239, type: 3}
+  - {fileID: 5974015975058729092, guid: ae70b7260bc723e44af88edc6763a207, type: 3}
+  - {fileID: 8954091693237028139, guid: 2337c386d0b693b43aeed7abef98ac43, type: 3}
+  - {fileID: 6690559214961248948, guid: 6d226d7778377aa45aa8c7fc980754d3, type: 3}
+  m_Walls:
+  - {fileID: 7872647033569216841, guid: d0f5fae5a917eec4f99f77b82f14921c, type: 3}
+  m_PatrolShips:
+  - {fileID: 2529827779820468091, guid: 1fc7a7cae2406ba48a667ea6fd207b45, type: 3}
